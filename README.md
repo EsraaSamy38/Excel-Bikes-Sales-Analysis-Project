@@ -1,25 +1,36 @@
-# Excel Data Analysis Project
+# Bike Buyers Analysis Project
 
-This project showcases my data analysis skills using Excel. It includes data cleaning, analysis, and visualization of a dataset.
+## Project Overview
+A data analysis project exploring factors influencing bike purchases using Excel. Analyzed customer demographics, income levels, and other variables to identify purchase patterns.
 
-## 📁 Project Files
+## Key Features
+- Data cleaning and preparation
+- Pivot tables and data summarization
+- Age segmentation analysis
+- Visualization of key metrics
+- Insights generation
 
-- **Data.xlsx**: The main Excel file with raw data, cleaned data, pivot tables, and charts.
-- **README.md**: Project documentation.
-- **insights.txt** *(optional)*: Summary of key findings and insights.
+## Skills Demonstrated
+- Excel data manipulation (formulas, filters)
+- Pivot tables and charts
+- Data segmentation and categorization
+- Basic statistical analysis
 
-## 🔧 Tools Used
+## How to Use
+1. Download the Excel file from the data folder
+2. Open in Microsoft Excel
+3. Explore the worksheets:
+   - Raw data
+   - Analysis sheets with pivot tables
+   - Visualizations
 
-- Microsoft Excel
+## Key Findings
+[Briefly list 2-3 key findings from your analysis]
+1. Customers aged 31-54 were most likely to purchase bikes
+2. Higher income brackets showed increased purchase rates
+3. [Add another finding]
 
-## 📊 What I Did
-
-- Cleaned and formatted raw data
-- Created pivot tables to summarize data
-- Built charts to visualize trends
-- Highlighted key insights from the dataset
-
-## 💼 Purpose
-
-This project is part of my data analyst portfolio to demonstrate my ability to analyze data using Excel.
+## Screenshots (optional)
+![Analysis Dashboard](images/dashboard.png) 
+[If you have visualizations]
 

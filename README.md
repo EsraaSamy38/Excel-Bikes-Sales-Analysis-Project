@@ -1,36 +1,49 @@
-# Bike Buyers Analysis Project
+# Bike sales Analysis - Excel Project
 
-## Project Overview
-A data analysis project exploring factors influencing bike purchases using Excel. Analyzed customer demographics, income levels, and other variables to identify purchase patterns.
+## 🎯 Overview
+A data analysis project exploring factors influencing bike purchases using Excel. Analyzed customer demographics, income levels, and other variables to identify purchase patternsthat is presented presents in interactive dashboard
 
-## Key Features
-- Data cleaning and preparation
-- Pivot tables and data summarization
-- Age segmentation analysis
-- Visualization of key metrics
-- Insights generation
+## ✅ Features
 
-## Skills Demonstrated
-- Excel data manipulation (formulas, filters)
-- Pivot tables and charts
-- Data segmentation and categorization
-- Basic statistical analysis
+- 📊 **Interactive Dashboard**  
+  - Sales breakdown by Marital Status, Region, Education
+  - Dynamic charts that update with slicers
 
-## How to Use
-1. Download the Excel file from the data folder
-2. Open in Microsoft Excel
-3. Explore the worksheets:
-   - Raw data
-   - Analysis sheets with pivot tables
-   - Visualizations
+- 🔁 **Pivot Tables & Charts**  
+  - Summarize large data sets efficiently  
+  - Visualize trends and comparisons
 
-## Key Findings
-[Briefly list 2-3 key findings from your analysis]
-1. Customers aged 31-54 were most likely to purchase bikes
-2. Higher income brackets showed increased purchase rates
-3. [Add another finding]
+- ✏️ **Data Cleaning & Formatting**  
+  - Organized dataset with meaningful column headers  
+  - Removed duplicates and corrected inconsistencies
+  - age Segmentaed into age brackets
 
-## Screenshots (optional)
+- 📈 **KPIs & Metrics**    
+  - Purchased Bikes
+  - Avg Inocom of Customer 
+  - Customer Commute Distance
+  - Customer Age Brackets
+
+## 📊Dashboard
 ![Analysis Dashboard](images/dashboard.png) 
-[If you have visualizations]
+
+## 🛠️How to Use
+1. Open the file[Download the Excel file](Excel_Bikes_Sales_Project.xlsx)
+2. Go to the **Dashboard** sheet to explore the visual summary
+3. Use the **slicers** to filter data by Marital Status, Region, Education
+4. Review the **Wokring sheet**, **Row Data** , **Pivot Tables**  sheets to see the backend logic and structure
+
+## 🔍Key Findings
+1. Middel aged customers (31-54) were most likely to purchase bikes
+2. Higher income brackets showed increased purchase rates
+3. Customer of Commute Distance (0-1) miles are most likely to purchase bikes
+4. Femals in Europe ara most likly to not purchase bikes
+ 
+## 🧠Skills Demonstrated
+- Data Cleaning and Preparation  
+- Pivot Tables & Pivot Charts  
+- Dashboard Design  
+- Excel Formulas (`Nested IF`,`SUMIF`, `COUNTIF`, `AVERAGE`,etc.)  
+- Data Visualization  
+- Use of Slicers and Interactivity
 

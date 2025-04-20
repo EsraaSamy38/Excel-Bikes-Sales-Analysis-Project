@@ -34,10 +34,10 @@ A data analysis project exploring factors influencing bike purchases using Excel
 4. Review the **Wokring sheet**, **Row Data** , **Pivot Tables**  sheets to see the backend logic and structure
 
 ## 🔍Key Findings
-1. Middel aged customers (31-54) were most likely to purchase bikes
-2. Higher income brackets showed increased purchase rates
-3. Customer of Commute Distance (0-1) miles are most likely to purchase bikes
-4. Femals in Europe ara most likly to not purchase bikes
+- Middel aged customers (31-54) were most likely to purchase bikes
+- Higher income brackets showed increased purchase rates
+- Customer of Commute Distance (0-1) miles are most likely to purchase bikes
+- Femals in Europe ara most likly to not purchase bikes
  
 ## 🧠Skills Demonstrated
 - Data Cleaning and Preparation  

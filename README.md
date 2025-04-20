@@ -28,7 +28,7 @@ A data analysis project exploring factors influencing bike purchases using Excel
 ![Analysis Dashboard](Dashbord.png) 
 
 ## 🛠️How to Use
-1. Open the file[Download the Excel file](Excel_Bikes_Sales_Project.xlsx)
+1. Open the file [Download the Excel file](Excel_Bikes_Sales_Project.xlsx)
 2. Go to the **Dashboard** sheet to explore the visual summary
 3. Use the **slicers** to filter data by Marital Status, Region, Education
 4. Review the **Wokring sheet**, **Row Data** , **Pivot Tables**  sheets to see the backend logic and structure

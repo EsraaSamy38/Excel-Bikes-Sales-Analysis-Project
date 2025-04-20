@@ -25,7 +25,7 @@ A data analysis project exploring factors influencing bike purchases using Excel
   - Customer Age Brackets
 
 ## 📊Dashboard
-![Analysis Dashboard](images/dashboard.png) 
+![Analysis Dashboard](Dashbord.png) 
 
 ## 🛠️How to Use
 1. Open the file[Download the Excel file](Excel_Bikes_Sales_Project.xlsx)

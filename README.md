@@ -8,11 +8,11 @@ A data analysis project exploring factors influencing bike purchases using Excel
   - Sales breakdown by Marital Status, Region, Education
   - Dynamic charts that update with slicers
 
-- 🔁 **Pivot Tables & Charts**  
+- 📉 **Pivot Tables & Charts**  
   - Summarize large data sets efficiently  
   - Visualize trends and comparisons
 
-- ✏️ **Data Cleaning & Formatting**  
+- 🧹 **Data Cleaning & Formatting**  
   - Organized dataset with meaningful column headers  
   - Removed duplicates and corrected inconsistencies
   - age Segmentaed into age brackets

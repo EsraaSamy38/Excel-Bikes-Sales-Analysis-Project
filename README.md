@@ -1,6 +1,6 @@
 # 🚴Bike sales Analysis - Excel Project
 
-A data analysis project exploring factors influencing bike purchases using Excel. Analyzed customer demographics, income levels, and other variables to identify purchase patternsthat is presented presents in interactive dashboard
+A data analysis project exploring factors influencing bike purchases using Excel. Analyzed customer demographics, income levels, and other variables to identify purchase patterns that is in interactive dashboard
 
 ##   🌟Features
 
